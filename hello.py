@@ -7,4 +7,4 @@ def more_goodbye():
 var = 1
 var = var
 
-foo =
+# foo =
